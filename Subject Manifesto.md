@@ -1,0 +1,17 @@
+- [ ] #rosie
+- [ ] #couper
+- [ ] #adyn
+- [ ] #jacob
+- [ ] #alishia
+- [ ] #tim
+- [ ] #matt_mercer
+- [ ] #matt_langdon
+- [ ] #jordan
+- [ ] #sam
+- [ ] #ayn :LiQuestionMarkGlyph:
+- [ ] #danna :LiQuestionMarkGlyph:
+- [ ] #tom_carter
+- [ ] #miyako
+- [ ] #sean :LiQuestionMarkGlyph:
+- [ ] #aryan :LiQuestionMarkGlyph:
+
