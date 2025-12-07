@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6f26b0b39b7b0d37",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6b260fb1b8adddb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "a6fcb0e56327beaa",
         "type": "tabs",
         "children": [
@@ -27,10 +11,14 @@
             "id": "5240dcf44ff5eb8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "I would like this to work please.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I would like this to work please"
             }
           }
         ]
