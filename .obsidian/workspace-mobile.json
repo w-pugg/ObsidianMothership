@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello.md",
+                "file": "I would like this to work please.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "I would like this to work please"
             }
           }
         ]
@@ -170,6 +170,6 @@
   },
   "active": "f1b5929e060866a9",
   "lastOpenFiles": [
-    "Hello.md"
+    "I would like this to work please.md"
   ]
 }
