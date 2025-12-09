@@ -1,0 +1,26 @@
+{
+  "customOrder": {
+    "/": [
+      "> Index.md",
+      "Campaign Overview.md",
+      "Character Creation.md",
+      "Inspirational Media.md",
+      "West Marches Style; Concerns.md",
+      "WIPS",
+      "Roster.md",
+      "Ink"
+    ],
+    "Ink": [
+      "Ink/Drawing"
+    ],
+    "Ink/Drawing": [
+      "Ink/Drawing/2025.12.1 - 15.16pm.drawing"
+    ],
+    "WIPS": [
+      "WIPS/Experimental Horrors.md"
+    ]
+  },
+  "sortOrder": "customOrder",
+  "debugMode": false,
+  "newItemPlacement": "bottom"
+}

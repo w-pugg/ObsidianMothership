@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1765224221349,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1765224221349,
+          "path": "Index.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765224221349,
+          "path": "Index.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1765224305735,
+          "items": [],
+          "title": "Ink"
+        },
+        {
+          "type": "file",
+          "ctime": 1765224305735,
+          "path": "Campaign Overview.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765224305735,
+          "path": "Character Creation.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765224305735,
+          "path": "Inspirational Media.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1765224305735,
+          "path": "West Marches Style; Concerns.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1765224305735,
+          "items": [],
+          "title": "WIPS"
+        },
+        {
+          "type": "file",
+          "ctime": 1765224299116,
+          "path": "Roster.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1765224305735,
+          "items": [],
+          "title": "Ink"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
