@@ -1,24 +1,34 @@
 {
   "customOrder": {
     "/": [
-      "> Index.md",
+      "Index.md",
       "Campaign Overview.md",
       "Character Creation.md",
       "Inspirational Media.md",
       "West Marches Style; Concerns.md",
-      "WIPS",
+      "Session 00 Prep.md",
+      "Technology",
+      "Organisations",
+      "Homebrew",
       "Roster.md",
-      "Ink"
+      "Ink",
+      "The Soteira Überhauler.md",
+      "Inventory.md",
+      "SOTEIRA.md"
     ],
+    "Homebrew": [],
     "Ink": [
       "Ink/Drawing"
     ],
     "Ink/Drawing": [
       "Ink/Drawing/2025.12.1 - 15.16pm.drawing"
     ],
-    "WIPS": [
-      "WIPS/Experimental Horrors.md"
-    ]
+    "Organisations": [
+      "Organisations/Propulsion Laboratories.md",
+      "Organisations/Cryo Generics.md",
+      "Organisations/Unnamed Ethically Concerning Pharmaceuticals Company.md"
+    ],
+    "Technology": []
   },
   "sortOrder": "customOrder",
   "debugMode": false,
