@@ -1,0 +1,5 @@
+Colony A3 consists of predominantly A-Class passengers who boarded the [[The SOTEIRA Überhauler]] as a part of [[intake 37]]. The colony is housed inside the A3 Cryo-bay (henceforth A3) located near the rear exterior hull of the vessel. 
+
+Due to the exterior nature of A3's location, the many systems and hardware sustaining passengers inside were particularly vulnerable to external, especially celestial, interference. Following a preservative maneuver toward a nearby star, a roguish solar flare disrupted A3 and a number of other surrounding modules causing them to malfunction. Consequently, hundreds of passengers from the Cryo-bay awoke to find themselves staring down the maw of a ravenous cinder sphere, many of which were immediately burnt and blinded.  
+
+Amidst the panic of such a sudden development, those who retained their vision attempted to flee into the ship at-large and away from any external windows, though few actually made it unscathed. 

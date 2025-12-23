@@ -7,16 +7,19 @@
       "Inspirational Media.md",
       "West Marches Style; Concerns.md",
       "Session 00 Prep.md",
-      "Technology",
+      "The SOTEIRA Überhauler.md",
+      "Inventory.md",
+      "The Acceptance Interview.md",
       "Organisations",
-      "Homebrew",
+      "Technology",
+      "Passengers",
       "Roster.md",
       "Ink",
-      "The Soteira Überhauler.md",
-      "Inventory.md",
-      "SOTEIRA.md"
+      "Imagery"
     ],
-    "Homebrew": [],
+    "Imagery": [
+      "Imagery/SOTEIRA Logo.png"
+    ],
     "Ink": [
       "Ink/Drawing"
     ],
@@ -24,11 +27,20 @@
       "Ink/Drawing/2025.12.1 - 15.16pm.drawing"
     ],
     "Organisations": [
+      "Organisations/Peregrine Foundation.md",
+      "Organisations/SOTEIRA.md",
+      "Organisations/Colony A3.md",
       "Organisations/Propulsion Laboratories.md",
       "Organisations/Cryo Generics.md",
-      "Organisations/Unnamed Ethically Concerning Pharmaceuticals Company.md"
+      "Organisations/Cloudbank Synthetics.md"
     ],
-    "Technology": []
+    "Passengers": [
+      "Passengers/Intake 37.md"
+    ],
+    "Technology": [
+      "Technology/PropLab"
+    ],
+    "Technology/PropLab": []
   },
   "sortOrder": "customOrder",
   "debugMode": false,
