@@ -40,7 +40,9 @@
     "Technology": [
       "Technology/PropLab"
     ],
-    "Technology/PropLab": []
+    "Technology/PropLab": [
+      "Technology/PropLab/Untitled.md"
+    ]
   },
   "sortOrder": "customOrder",
   "debugMode": false,

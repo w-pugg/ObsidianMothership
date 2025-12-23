@@ -1,1 +1,0 @@
-Due to the sheer number of ~~players~~passengers forecast to be boarding the ship, it is unclear whether personnel will conduct an [[The Acceptance Interview]] alone or as part of a focus group to determine their appropriateness aboard the [[The SOTEIRA Überhauler|vessel]]. 

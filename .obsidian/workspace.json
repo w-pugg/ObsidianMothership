@@ -6,7 +6,7 @@
       {
         "id": "81b92a6b6e16b424",
         "type": "tabs",
-        "dimension": 60.59644670050761,
+        "dimension": 65.35532994923858,
         "children": [
           {
             "id": "5240dcf44ff5eb8d",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Organisations/SOTEIRA.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -28,26 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Colony A3.md",
+                "file": "Session 00 — The Acceptance Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colony A3"
-            }
-          },
-          {
-            "id": "b5515de8a61549b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 00 Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 00 Prep"
+              "title": "Session 00 — The Acceptance Interview"
             }
           }
         ],
@@ -56,23 +42,35 @@
       {
         "id": "416c75d4988fc92e",
         "type": "tabs",
-        "dimension": 39.40355329949238,
+        "dimension": 34.64467005076142,
         "children": [
           {
-            "id": "50cd82bfcbabde78",
+            "id": "b5515de8a61549b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/PropLab/Untitled.md",
-                "mode": "source",
+                "file": "Character Creation.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Character Creation"
+            }
+          },
+          {
+            "id": "50cd82bfcbabde78",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -145,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/PropLab/Untitled.md",
+                "file": "Organisations/Propulsion Laboratories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Propulsion Laboratories"
             }
           },
           {
@@ -164,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/PropLab/Untitled.md",
+                "file": "Organisations/Propulsion Laboratories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Propulsion Laboratories"
             }
           },
           {
@@ -193,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/PropLab/Untitled.md",
+                "file": "Organisations/Propulsion Laboratories.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Propulsion Laboratories"
             }
           },
           {
@@ -247,28 +245,28 @@
   },
   "active": "50cd82bfcbabde78",
   "lastOpenFiles": [
-    "Organisations/Propulsion Laboratories.md",
-    "Technology/PropLab/Untitled.md",
-    "Technology/PropLab",
-    "Technology",
-    "Organisations/Colony A3.md",
-    "The Acceptance Interview.md",
-    "Passengers/Intake 37.md",
-    "Passengers",
-    "Session 00 Prep.md",
+    "Session 00 — The Acceptance Interview.md",
+    "Character Creation.md",
     "Organisations/SOTEIRA.md",
     "The SOTEIRA Überhauler.md",
-    "Organisations/Cryo Generics.md",
+    "Organisations/Propulsion Laboratories.md",
+    "Organisations/Colony A3.md",
+    "Organisations/Peregrine Foundation.md",
+    "Session 00 Prep.md",
     "Inventory.md",
+    "Campaign Overview.md",
+    "Inspirational Media.md",
+    "West Marches Style; Concerns.md",
+    "Technology/PropLab/Engine tech used on the Uberhauler.md",
+    "Organisations/Cryo Generics.md",
+    "Technology/PropLab",
+    "Technology",
+    "Passengers/Intake 37.md",
+    "Passengers",
     "Imagery",
     "Imagery/SOTEIRA Logo.png",
     "Organisations/Cloudbank Synthetics.md",
-    "Organisations/Peregrine Foundation.md",
-    "West Marches Style; Concerns.md",
     "Roster.md",
-    "Inspirational Media.md",
-    "Campaign Overview.md",
-    "Character Creation.md",
     "I would like this to work please.md",
     "create a link.md",
     "Welcome.md"
