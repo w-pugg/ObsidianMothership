@@ -6,16 +6,15 @@
       "Character Creation.md",
       "Inspirational Media.md",
       "West Marches Style; Concerns.md",
-      "Session 00 Prep.md",
       "The SOTEIRA Überhauler.md",
       "Inventory.md",
-      "The Acceptance Interview.md",
       "Organisations",
       "Technology",
       "Passengers",
       "Roster.md",
       "Ink",
-      "Imagery"
+      "Imagery",
+      "Session 00 — The Acceptance Interview.md"
     ],
     "Imagery": [
       "Imagery/SOTEIRA Logo.png"
@@ -32,7 +31,8 @@
       "Organisations/Colony A3.md",
       "Organisations/Propulsion Laboratories.md",
       "Organisations/Cryo Generics.md",
-      "Organisations/Cloudbank Synthetics.md"
+      "Organisations/Cloudbank Synthetics.md",
+      "Organisations/Sleepr.md"
     ],
     "Passengers": [
       "Passengers/Intake 37.md"
@@ -41,7 +41,7 @@
       "Technology/PropLab"
     ],
     "Technology/PropLab": [
-      "Technology/PropLab/Untitled.md"
+      "Technology/PropLab/Engine tech used on the Uberhauler.md"
     ]
   },
   "sortOrder": "customOrder",
