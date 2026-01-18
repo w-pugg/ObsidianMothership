@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 8509020
       }
+    },
+    {
+      "query": "\"tags\":ProprietaryTechnology",
+      "color": {
+        "a": 1,
+        "rgb": 14820352
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.6,
   "nodeSizeMultiplier": 0.686979166666667,
-  "lineSizeMultiplier": 0.6359375,
+  "lineSizeMultiplier": 2.33924731182796,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 145,
-  "scale": 0.3628873693012186,
-  "close": true
+  "scale": 2.1301495201837675,
+  "close": false
 }
